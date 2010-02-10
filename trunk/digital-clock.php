@@ -4,7 +4,7 @@
 $clockOffsetHx = 33;
 $clockOffsetMx = $clockOffsetHx + 42;
 $clockOffsetSx = $clockOffsetMx + 42;
-$clockOffsetYU = 20;
+$clockOffsetYU = 22;
 $clockOffsetYL = $clockOffsetYU + 13;
 ?>
 <div style="position: relative;">
@@ -28,7 +28,7 @@ $clockOffsetYL = $clockOffsetYU + 13;
 
        animation0();
        setInterval(function(){
-           animation0();
+	   animation0();
        }, 1000);
 
        function animationH1u() {
