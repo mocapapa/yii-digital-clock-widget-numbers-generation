@@ -1,0 +1,6 @@
+
+digital-clock-base.png ------- clock image base
+digital-clock-numbers.png ---- clock number image sprite
+digital-clock.php ------------ components/view/digital-clock.php
+numbersGen.php --------------- image generator for digital-clock-numbers.png
+screenshot.jpg --------------- screenshot of the widget
